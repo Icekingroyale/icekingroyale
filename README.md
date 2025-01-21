@@ -1,10 +1,6 @@
 # 👋 Hello, World!  
 
-### I'm Chimaobi, a **Frontend Web Developer** with an eye for Design and Detail.  
-
-
-Let’s collaborate to build something exceptional!
-
+ I'm Chimaobi, a `Frontend Web Developer` with an eye for Design and Detail.  
 
 <h3 align="left"> 🛠 Languages and Tools:</h3>
 
