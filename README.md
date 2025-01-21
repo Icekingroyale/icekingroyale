@@ -1,9 +1,9 @@
 # 👋 Hello, World!  
 
-I'm Chimaobi, a **web developer** passionate about creating responsive, performant, and visually stunning web experiences. My focus is on writing clean, efficient code to build projects that stand out.  
+### I'm Chimaobi, a **Frontend Web Developer** with an eye for Design and Detail.  
 
 
-**Let’s collaborate to build something exceptional!**
+Let’s collaborate to build something exceptional!
 
 
 <h3 align="left"> 🛠 Languages and Tools:</h3>
