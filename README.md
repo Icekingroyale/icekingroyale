@@ -9,32 +9,14 @@ I'm Chimaobi, a **web developer** passionate about creating responsive, performa
 **Let’s collaborate to build something exceptional!**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
-</div>
+![Bootstrap](https://img.shields.io/badge/-Reactjs-05122A?style=for-the-badge&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tailwind%20css-05122A?style=for-the-badge&logo=Tailwind-css&color=353535) ![Bootstrap](https://img.shields.io/badge/-javaScript%20-05122A?style=for-the-badge&logo=javaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-html%205-05122A?style=for-the-badge&logo=html-5&color=353535) ![Bootstrap](https://img.shields.io/badge/-css%203-05122A?style=for-the-badge&logo=css-3&color=353535) ![Bootstrap](https://img.shields.io/badge/-python-05122A?style=for-the-badge&logo=python&color=353535) ![Bootstrap](https://img.shields.io/badge/-php-05122A?style=for-the-badge&logo=php&color=353535) ![Bootstrap](https://img.shields.io/badge/-git%20-05122A?style=for-the-badge&logo=git&color=353535) ![Bootstrap](https://img.shields.io/badge/-vercel%20-05122A?style=for-the-badge&logo=vercel&color=353535) ![Bootstrap](https://img.shields.io/badge/-netlify-05122A?style=for-the-badge&logo=netlify&color=353535)
+
+
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icekingroyale&show_icons=true&theme=dark)
+<img width="40%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icekingroyale&show_icons=true&locale=en&layout=compact" alt="icekingroyale" />
