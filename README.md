@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, World!  
 
-<!--
-**Icekingroyale/icekingroyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chimaobi, a **web developer** passionate about creating responsive, performant, and visually stunning web experiences. My focus is on writing clean, efficient code to build projects that stand out.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+- **Frontend**: HTML, CSS (Tailwind), JavaScript (React)  
+- **Tools**: Netlify, Vercel, Git, GitHub, VS-Code, WebStorm  
+
+---
+
+## 🤝 Let’s Connect  
+- **Twitter**: [@icekingroyale](https://x.com/icekingroyale)  
+- **LinkedIn**: [Chimaobi Okeh](www.linkedin.com/in/chimaobi-okeh)  
+- **Email**: [okehchimaobi.com](mailto:okehchimaobi@gmail.com)  
+
+---
+
+**Let’s collaborate to build something exceptional!**
